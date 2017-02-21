@@ -1,5 +1,5 @@
 ﻿/*
- *  C# sample app testing SQL server 2016 vNext on Ubuntu 10.06 machine
+ *  C# sample app testing SQL server 2016 vNext on Ubuntu 16.04 machine
  *  dropping, creating DB
  *  creating, deleting, and reading rows in new DB
  *  by Rogelio Hernandez
